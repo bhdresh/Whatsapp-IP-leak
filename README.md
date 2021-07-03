@@ -48,15 +48,15 @@ done
 
 # Impact
 
-===
+
 Possibility to map whatsapp users with their public IP will not just reveal whatsapp users' location information but can also be misused to track their physical movement by maintaining location history. Such direct mapping between user to IP information can also be misused to track users' surfing habits and to influence him.
 
 Further, the public IP could be exploited to launch targeted attacks towards whatsapp user home or office.
 
 # Repro Steps
 
-Setup
-===
+## Setup
+
 Users: UserA is has whatsapp detail of UserB
 
 Environment: n/a
@@ -67,12 +67,12 @@ App version: <=latest version of whatsapp application on any platform
 
 OS: All platforms except web
 
-Description: UserA makes a whatsapp call to UserB and captures his public IP information without UserB's knowledge. Video PoC for better understanding of steps: https://youtu.be/yPFwzWpK6xU
+Description: UserA makes a whatsapp call to UserB and captures his public IP information without UserB's knowledge. Video PoC for better understanding of steps: 
 
 
 
-Steps
-==
+## Steps
+
 Step 1: Start WiFi hotspot on attacker machine and connect attacker phone to attacker SSID
 
 Step 2: Start the PoC script (below) on attacker machine which is now acting as a router for attacker phone
