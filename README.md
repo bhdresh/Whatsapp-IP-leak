@@ -1,9 +1,14 @@
-# Leak the IP address of target whatsapp user
+## Leak the IP address of target whatsapp user
 
+### Disclaimer
 
-## Description/Impact
+This program is for Educational purpose ONLY. Do not use it without permission. The usual disclaimer applies, especially the fact that me (bhdresh) is not liable for any damages caused by direct or indirect use of the information or functionality provided by these programs. The author or any Internet provider bears NO responsibility for content or misuse of these programs or any derivatives thereof. By using this program you accept the fact that any damage (dataloss, system crash, system compromise, etc.) caused by the use of these programs is not bhdresh's responsibility.
 
-### Complete Details
+Finally, this is a personal development, please respect its philosophy and don't use it for bad things!
+
+### Description/Impact
+
+#### Complete Details
 
 Latest version of whatsapp application on all platforms is vulnerable to remote whatsapp user public IP disclosure.
 
@@ -36,16 +41,16 @@ done
 
 --------------------------
 
-### Impact
+#### Impact
 
 
 Possibility to map whatsapp users with their public IP will not just reveal whatsapp users' location information but can also be misused to track their physical movement by maintaining location history. Such direct mapping between user to IP information can also be misused to track users' surfing habits and to influence him.
 
 Further, the public IP could be exploited to launch targeted attacks towards whatsapp user home or office.
 
-## Repro Steps
+### Repro Steps
 
-### Setup
+#### Setup
 
 Users: UserA is has whatsapp detail of UserB
 
@@ -61,7 +66,7 @@ Description: UserA makes a whatsapp call to UserB and captures his public IP inf
 
 
 
-### Steps
+#### Steps
 
 Step 1: Start WiFi hotspot on attacker machine and connect attacker phone to attacker SSID
 
@@ -104,7 +109,7 @@ Step 6: Script will reveal the public IP address of the target
 
 Step 7: Validate the public IP address on target phone
 
-## Disclosure timeline
+### Disclosure timeline
 
 1) October 14, 2020 - Reported vulnerability to Facebook
 2) October 14, 2020 - Response from Facebook (Thank you for your report. In this case, the issue you've described is actually just intended functionality and therefore doesn't qualify for a bounty.)
