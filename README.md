@@ -108,7 +108,7 @@ Step 7: Validate the public IP address on target phone
 
 1) October 14, 2020 - Reported vulnerability to Facebook
 2) October 14, 2020 - Response from Facebook (Thank you for your report. In this case, the issue you've described is actually just intended functionality and therefore doesn't qualify for a bounty.)
-3) October 14, 2020 - Reply to facebook (could you please let me know how WhatsApp users could mitigate this accidental disclosure of his IP and potential private information about his location?0
+3) October 14, 2020 - Reply to Facebook (could you please let me know how WhatsApp users could mitigate this accidental disclosure of his IP and potential private information about his location?)
 4) October 16, 2020 - Follow up email
 5) October 20, 2020 - Response from Facebook (Due to the nature of the peer to peer protocol, the best methods for users who may be concerned about accidental disclosure is to take a proactive approach. This can include limiting calls to trusted users or using a VPN.)
 6) January 18, 2021 - Requesting permission for public disclosure (In such a case, is it fine if I publish this finding with public disclosure?)
