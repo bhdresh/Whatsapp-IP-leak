@@ -120,4 +120,4 @@ Step 7: Validate the public IP address on target phone
 7) January 18, 2021 - Response from Facebook (The decision to publish is entirely yours. There are no penalties for doing so.)
 8) March 20, 2021 - Further communication with Facebook (During my research have noticed that Signal has introduced a feature to relay calls through the signal server to void revealing IP addresses....Could you please recheck the approach to limit calls to trusted users or using a VPN? I believe using VPN all the time is not a feasible solution to protect the location privacy.)
 9) March 23, 2021 - Response from Facebook (At this time we are content with our current implementation of WhatsApp calling.)
-10) Juluy 03, 2021 - Public disclosure
+10) July 03, 2021 - Public disclosure
