@@ -12,9 +12,8 @@ WhatsApp
 
 # Description/Impact
 
-Complete Details
+## Complete Details
 
-===
 Latest version of whatsapp application on all platforms is vulnerable to remote whatsapp user public IP disclosure.
 
 It is observed that during a whatsapp (voice / video) call, application on caller side tries to establish a direct connection with the public IP address of recipient device. By filtering the Facebook and WhatsApp server IP addresses from the destination hosts, it is possible to reveal the correct public IP address of the target whatsapp user without his knowledge.
@@ -46,7 +45,7 @@ done
 
 --------------------------
 
-# Impact
+## Impact
 
 
 Possibility to map whatsapp users with their public IP will not just reveal whatsapp users' location information but can also be misused to track their physical movement by maintaining location history. Such direct mapping between user to IP information can also be misused to track users' surfing habits and to influence him.
