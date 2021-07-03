@@ -2,13 +2,6 @@
 
 Leak the IP address of target whatsapp user
 
-# Vuln Type
-
-Privacy / Authorization
-
-# Product Area
-
-WhatsApp
 
 # Description/Impact
 
