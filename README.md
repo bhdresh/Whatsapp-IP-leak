@@ -104,3 +104,15 @@ Step 6: Script will reveal the public IP address of the target
 
 Step 7: Validate the public IP address on target phone
 
+## Disclosure timeline
+
+1) October 14, 2020 - Reported vulnerability to Facebook
+2) October 14, 2020 - Response from Facebook (Thank you for your report. In this case, the issue you've described is actually just intended functionality and therefore doesn't qualify for a bounty.)
+3) October 14, 2020 - Reply to facebook (could you please let me know how WhatsApp users could mitigate this accidental disclosure of his IP and potential private information about his location?0
+4) October 16, 2020 - Follow up email
+5) October 20, 2020 - Response from Facebook (Due to the nature of the peer to peer protocol, the best methods for users who may be concerned about accidental disclosure is to take a proactive approach. This can include limiting calls to trusted users or using a VPN.)
+6) January 18, 2021 - Requesting permission for public disclosure (In such a case, is it fine if I publish this finding with public disclosure?)
+7) January 18, 2021 - Response from Facebook (The decision to publish is entirely yours. There are no penalties for doing so.)
+8) March 20, 2021 - Further communication with Facebook (During my research have noticed that Signal has introduced a feature to relay calls through the signal server to void revealing IP addresses....Could you please recheck the approach to limit calls to trusted users or using a VPN? I believe using VPN all the time is not a feasible solution to protect the location privacy.)
+9) March 23, 2021 - Response from Facebook (At this time we are content with our current implementation of WhatsApp calling.)
+10) Juluy 03, 2021 - Public disclosure
