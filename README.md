@@ -1,11 +1,9 @@
-# Title
-
-Leak the IP address of target whatsapp user
+# Leak the IP address of target whatsapp user
 
 
-# Description/Impact
+## Description/Impact
 
-## Complete Details
+### Complete Details
 
 Latest version of whatsapp application on all platforms is vulnerable to remote whatsapp user public IP disclosure.
 
@@ -38,16 +36,16 @@ done
 
 --------------------------
 
-## Impact
+### Impact
 
 
 Possibility to map whatsapp users with their public IP will not just reveal whatsapp users' location information but can also be misused to track their physical movement by maintaining location history. Such direct mapping between user to IP information can also be misused to track users' surfing habits and to influence him.
 
 Further, the public IP could be exploited to launch targeted attacks towards whatsapp user home or office.
 
-# Repro Steps
+## Repro Steps
 
-## Setup
+### Setup
 
 Users: UserA is has whatsapp detail of UserB
 
@@ -63,7 +61,7 @@ Description: UserA makes a whatsapp call to UserB and captures his public IP inf
 
 
 
-## Steps
+### Steps
 
 Step 1: Start WiFi hotspot on attacker machine and connect attacker phone to attacker SSID
 
