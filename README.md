@@ -1,4 +1,4 @@
-## Leak the IP address of target whatsapp user
+## Leak the IP address and Geolocation of target whatsapp user 
 
 ### Disclaimer
 
