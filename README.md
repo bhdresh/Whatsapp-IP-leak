@@ -8,6 +8,10 @@ Finally, this is a personal development, please respect its philosophy and don't
 
 ### Description/Impact
 
+#### PoC Video:
+
+https://youtu.be/AR52CQC5kNc
+
 #### Complete Details
 
 Latest version of whatsapp application on all platforms is vulnerable to remote whatsapp user public IP disclosure.
@@ -62,7 +66,7 @@ App version: <=latest version of whatsapp application on any platform
 
 OS: All platforms except web
 
-Description: UserA makes a whatsapp call to UserB and captures his public IP information without UserB's knowledge. Video PoC for better understanding of steps: 
+Description: UserA makes a whatsapp call to UserB and captures his public IP information without UserB's knowledge. Video PoC for better understanding of steps: https://youtu.be/AR52CQC5kNc
 
 
 
