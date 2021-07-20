@@ -10,7 +10,7 @@ Finally, this is a personal development, please respect its philosophy and don't
 
 #### PoC Video:
 
-https://youtu.be/AR52CQC5kNc
+https://vimeo.com/577355374
 
 #### Complete Details
 
@@ -66,7 +66,7 @@ App version: <=latest version of whatsapp application on any platform
 
 OS: All platforms except web
 
-Description: UserA makes a whatsapp call to UserB and captures his public IP information without UserB's knowledge. Video PoC for better understanding of steps: https://youtu.be/AR52CQC5kNc
+Description: UserA makes a whatsapp call to UserB and captures his public IP information without UserB's knowledge. Video PoC for better understanding of steps: https://vimeo.com/577355374
 
 
 
